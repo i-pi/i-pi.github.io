@@ -60,7 +60,7 @@ Accelerated convergence of averages by performing Monte Carlo exchanges of confi
 **Main contributors:** Riccardo Petraglia, Robert Meissner, Michele Ceriotti  
 **Implementation:** 
 R. Petraglia, A. Nicolaï, M. M. D. Wodrich, M. Ceriotti, C. Corminboeuf, *"Beyond static structures: Putting forth remd as a tool to solve problems in computational organic chemistry"*, J. Comput. Chem. 37(1), 83-92 (2016)  
-DOI: [10.1002/jcc.24025](dx.doi.org/10.1002/jcc.24025) --- BibTeX: [fetch](http://www.doi2bib.org/#/doi/10.1002/jcc.24025)
+DOI: [10.1002/jcc.24025](dx.doi.org/10.1002/jcc.24025) --- BibTeX: [fetch](http://www.doi2bib.org/#/doi/10.1002/jcc.24025)  
 **Theory:**  
 Y. Sugita, Y. Okamoto, *"Replica-exchange molecular dynamics method for protein folding"*, Chem. Phys. Lett. 314(1-2), 141–151 (1999)  
 DOI: [10.1016/s0009-2614(99)01123-9](dx.doi.org/10.1016/s0009-2614(99)01123-9) --- BibTeX: [fetch](http://www.doi2bib.org/#/doi/10.1016/s0009-2614(99)01123-9)  

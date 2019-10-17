@@ -54,14 +54,15 @@ useful for your research, a citation would be appreciated to
 
 
 As of today, the following codes provide out-of-the-box an i-PI interface: 
-[CP2K](https://www.cp2k.org/),
-[DFTB+](http://www.dftb-plus.info/),
-[Lammps](http://lammps.sandia.gov/),
-[Quantum ESPRESSO](http://quantum-espresso.org),
-[Siesta](http://departments.icmab.es/leem/siesta/),
-[FHI-aims](https://aimsclub.fhi-berlin.mpg.de/),
-[Yaff](http://molmod.github.io/yaff/),
-[deMonNano](http://demon-nano.ups-tlse.fr/),
+[CP2K](https://www.cp2k.org/), 
+[DFTB+](http://www.dftb-plus.info/), 
+[Lammps](http://lammps.sandia.gov/), 
+[Quantum ESPRESSO](http://quantum-espresso.org), 
+[Siesta](http://departments.icmab.es/leem/siesta/), 
+[FHI-aims](https://aimsclub.fhi-berlin.mpg.de/), 
+[Yaff](http://molmod.github.io/yaff/), 
+[deMonNano](http://demon-nano.ups-tlse.fr/), 
+[plumed](http://www.plumed.org/), 
 [TBE](https://www.questaal.org/).
 If you are interested in interfacing your code to i-PI please get in touch,
 we are always glad to help!
