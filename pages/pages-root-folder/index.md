@@ -60,6 +60,7 @@ As of today, the following codes provide out-of-the-box an i-PI interface:
 [Yaff](http://molmod.github.io/yaff/), 
 [deMonNano](http://demon-nano.ups-tlse.fr/), 
 [plumed](http://www.plumed.org/), 
+[ASE](https://wiki.fysik.dtu.dk/ase/),
 [TBE](https://www.questaal.org/).
 If you are interested in interfacing your code to i-PI please get in touch,
 we are always glad to help!
