@@ -24,10 +24,14 @@ water and the Zundel cation potentials in the driver code) that are
 only available through the development version of i-PI, a snapshot of
 which is present within the archive.
 
-All these examples can be downloaded with a [VirtualBox](/notyet.com)
+
+
+These examples can be run within a virtual environment as a [VirtualBox](/notyet.com) 
 image containing a complete tutorial on Path Integral Molecular
 Dynamics explicitly developed for the
-[Path Integral Quantum Mechanics: Theory, Simulation and Application School](https://www.cecam.org/workshop-1314.html).
+[Path Integral Quantum Mechanics: Theory, Simulation and Application School](https://psi-k.net/cecam-marvel-psi-k-school-on-path-integral-quantum-mechanics-from-the-basics-to-the-latest-developments/).
+We are currently updating this virtual environment to reflect the current status of the code and its new release.
+In the meanwhile, all tutorial instructions and scripts can be downloaded from [this repository](https://github.com/cosmo-epfl/pimd-tutorial).
 
 Open source codes that are interfaced with i-PI are also installed in the
 VirtualBox image which includes several examples on how to use them. Some of
