@@ -17,7 +17,7 @@
   side: left
   dropdown:
   - title: "Documentation"
-    url: "/resources/documentation/"
+    url: "/i-pi/"
   - title: "Tutorials"
     url: "/resources/tutorials/"
   - title: "Getting Started"
