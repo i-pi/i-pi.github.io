@@ -10,8 +10,8 @@ permalink: "/resources/getting_started/"
 
 ### Prerequisites
 
-#### Mandatory:
- - A decent version of python >=2.5 (< 3)
+# Mandatory:
+ - A decent version of python (>=3.6) 
  - A decent version of numpy
  
 #### Optional:
