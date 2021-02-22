@@ -28,6 +28,7 @@ Finding these features readily available is saving you weeks of work:
 reward the developers by spending 15 seconds to add one more citation
 to your manuscript!
 
+* [Committee Models](#committee-models)
 * [Replica Exchange MD](#replica-exchange-md)
 * [Thermodynamic integrations](#thermodynamic-integrations) 
 * [Finite-differences Suzuki-Chin PIMD](#finite-differences-suzuki-chin-pimd) 
@@ -52,6 +53,22 @@ to your manuscript!
 * [Path-Integral Langevin Equation Thermostats](#path-integral-langevin-equation-thermostats)
 * [Path Integrals at Constant Pressure](#path-integrals-at-constant-pressure)
 * [Path Integral Molecular Dynamics](#path-integral-molecular-dynamics)
+
+### Committee models
+
+Uncertainty estimation for machine-learning potentials based on committee models. 
+Multiple potentials are used simultaneously (they should have been fitted with randomized training sets).
+The mean is used to drive the system, the spread is used as an estimate of the uncertainty. 
+This uncertainty can be used to select high-error structures for active learning, to estimate
+the propagation of the error to thermodynamic averages, or to build a weighted baseline model
+that falls back to a safe baseline potential when the ML models fail. 
+
+**Main contributors:** Giulio Imbalzano, Venkat Kapil, Yongbin Zhuang, Federico Grasselli, Michele Ceriotti  
+**Implementation and theory:**  
+G. Imbalzano, Y. Zhuang, V. Kapil, K. Rossi, E. A. Engel, F. Grasselli, and M. Ceriotti, *"Uncertainty estimation for molecular dynamics and sampling"*, J. Chem. Phys. 154(7), 074102 (2021)  
+A. Author, B. Author, *"Title of the paper"*, Abbr. Journ. 1(3), page (year)  
+DOI: [10.1063/5.0036522](dx.doi.org/10.1063/5.0036522) --- BibTeX: [fetch](http://www.doi2bib.org/#/doi/10.1063/5.0036522)  
+
 
 ### Replica Exchange MD
 
