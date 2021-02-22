@@ -65,9 +65,10 @@ that falls back to a safe baseline potential when the ML models fail.
 
 **Main contributors:** Giulio Imbalzano, Venkat Kapil, Yongbin Zhuang, Federico Grasselli, Michele Ceriotti  
 **Implementation and theory:**  
-G. Imbalzano, Y. Zhuang, V. Kapil, K. Rossi, E. A. Engel, F. Grasselli, and M. Ceriotti, *"Uncertainty estimation for molecular dynamics and sampling"*, J. Chem. Phys. 154(7), 074102 (2021)  
-A. Author, B. Author, *"Title of the paper"*, Abbr. Journ. 1(3), page (year)  
+G. Imbalzano, Y. Zhuang, V. Kapil, K. Rossi, E. A. Engel, F. Grasselli, and M. Ceriotti, *"Uncertainty estimation for molecular dynamics and sampling"*, J. Chem. Phys. 154(7), 074102 (2021)    
 DOI: [10.1063/5.0036522](dx.doi.org/10.1063/5.0036522) --- BibTeX: [fetch](http://www.doi2bib.org/#/doi/10.1063/5.0036522)  
+F. Musil, M. J. Willatt, M. A. Langovoy, and M. Ceriotti, *"Fast and Accurate Uncertainty Estimation in Chemical Machine Learning"*, Journal of Chemical Theory and Computation 15(2), 906–915 (2019)    
+DOI: [10.1021/acs.jctc.8b00959](dx.doi.org/10.1021/acs.jctc.8b00959) --- BibTeX: [fetch](http://www.doi2bib.org/#/doi/10.1021/acs.jctc.8b00959)  
 
 
 ### Replica Exchange MD
