@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '3.6.3'
+gem 'jekyll', '~>3'
 
 group :jekyll_plugins do
   gem 'jekyll-gist'
@@ -10,4 +10,4 @@ end
 
 gem 'asciidoctor', '~> 1.5.4'
 gem 'coderay', '1.1.1'
-
+gem "kramdown-parser-gfm"
