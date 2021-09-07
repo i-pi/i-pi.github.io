@@ -6,17 +6,7 @@ header:
     image_fullwidth: "wpig6_blue.jpg"
 ---
 
+If you have questions about running i-PI, or how to perform particular kinds of simulations you may want to check out the user forum, that is organized as a <a href="https://groups.google.com/g/ipi-users" target="_blank">Google group.</a> 
+If your question has not already been answered, that is the appropriate channel to get an answer in a way that also benefits future users.
 
-<iframe id="forum_embed"
-  src="javascript:void(0)"
-  scrolling="no"
-  frameborder="0"
-  width="900"
-  height="700">
-</iframe>
-<script type="text/javascript">
-  document.getElementById('forum_embed').src =
-     'https://groups.google.com/forum/embed/?place=forum/ipi-users'
-     + '&showsearch=true&showpopout=true&showtabs=false'
-     + '&parenturl=' + encodeURIComponent(window.location.href);
-</script>
+If instead you believe you found a bug, or you want to contribute features, it is more appropriate to use the <a href="https://github.com/i-pi/i-pi" target="_blank">Github issue tracker</a>.
