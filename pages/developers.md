@@ -14,8 +14,8 @@ permalink: "/about/developers/"
    at EPFL, Lausanne. 
  - [Mariana Rossi,](http://th.fhi-berlin.mpg.de/groups/sabia/)
    Lise Meitner Research Group Leader at the Max Planck Institute, Hamburg.
- - [Venkat Kapil,](https://people.epfl.ch/venkat.kapil?lang=en) PhD at
-   COSMO.
+ - [Venkat Kapil,](https://venkatkapil24.github.io/) 
+   Oppenheimer Research Fellow, University of Cambridge, UK; Sydney Harvey Junior Research Fellow, Churchill College.
  - [Yair Litman,](https://litman90.github.io/website/)
    Walter Benjamin DFG fellow at Yusuf Hamied Department of Chemistry, University of Cambridge.
  - [Riccardo Petraglia,](https://people.epfl.ch/riccardo.petraglia?lang=en) Scientist
