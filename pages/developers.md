@@ -12,14 +12,15 @@ permalink: "/about/developers/"
  - [Michele Ceriotti,](https://people.epfl.ch/michele.ceriotti?lang=en)
    Head of the Laboratory for Computational Science and Modelling (COSMO)
    at EPFL, Lausanne. 
- - [Riccardo Petraglia,](https://people.epfl.ch/riccardo.petraglia?lang=en) Scientist
-   at COSMO.
  - [Mariana Rossi,](http://th.fhi-berlin.mpg.de/groups/sabia/)
-   Otto Hahn Group leader at Fritz Haber Institute, Berlin.
- - [Ondrej Marsalek,](https://github.com/OndrejMarsalek) Scientist at
-   Stanford University.
+   Lise Meitner Research Group Leader at the Max Planck Institute, Hamburg.
  - [Venkat Kapil,](https://people.epfl.ch/venkat.kapil?lang=en) PhD at
    COSMO.
+ - [Yair Litman,](https://litman90.github.io/website/)
+   Walter Benjamin DFG fellow at Yusuf Hamied Department of Chemistry, University of Cambridge.
+ - [Riccardo Petraglia,](https://people.epfl.ch/riccardo.petraglia?lang=en) Scientist
+   at COSMO.
+ - [Ondrej Marsalek,](https://github.com/OndrejMarsalek) Charles University, Prague.
  - [Joshua More]()
 
 ### Contributors
