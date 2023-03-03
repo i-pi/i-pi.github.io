@@ -68,9 +68,9 @@ As of today, the following electronic-structure codes provide out-of-the-box an 
 If you know a code that is missing in this list, please contact the developers. If you are interested in interfacing your code to i-PI please get in touch,
 we are always glad to help! 
 
-A few machine-learning potentials are also interfaced with i-PI, such as:
-[n2p2](https://github.com/CompPhysVienna/n2p2) - interface through LAMMPS
-[sGDML](http://www.sgdml.org/)
+A few machine-learning potentials are also interfaced with i-PI, such as 
+[n2p2](https://github.com/CompPhysVienna/n2p2) (interface through LAMMPS),
+[sGDML](http://www.sgdml.org/),
 and others.
 
 If you have questions about running i-PI calculations, or including new features
