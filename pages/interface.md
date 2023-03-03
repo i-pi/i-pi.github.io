@@ -16,13 +16,15 @@ The implementation is based on a client-server paradigm, where i-PI
 acts as the server and deals with the propagation of the nuclear
 dynamics, whereas the calculation of the potential energy, forces and
 the potential energy part of the pressure virial is delegated to one
-or more instances of an external code, acting as clients. Since the
-main focus is on performing ab initio PIMD - where the cost of the
-force evaluation is overwhelming relative to the ionic dynamics -
-clarity has been privileged over speed. Still, the implementation of
-i-PI is efficient enough that it can be used with empirical
-forcefields to perform simple benchmarks and preparatory
-simulations. See more about i-PI implementation in the publication
+or more instances of an external code, acting as clients. 
+
+i-PI was originally designed to perform ab initio PIMD - where the cost of the
+force evaluation is overwhelming relative to the ionic dynamics.
+However, it has since grown to do much more than that.
+The implementation of i-PI is efficient enough that it can be used with empirical
+forcefields and machine-learned potentials without incurring a large overhead.
+If you experience very large overheads, please contact the developers! It is 
+likely that some easy solutions are possible. See more about i-PI implementation in the publication
 that accompanies its release.
 
 ![socket-interface scheme](/images/ipi-interface-scheme.png)
