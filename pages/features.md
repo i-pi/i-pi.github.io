@@ -53,6 +53,7 @@ to your manuscript!
 * [Path-Integral Langevin Equation Thermostats](#path-integral-langevin-equation-thermostats)
 * [Path Integrals at Constant Pressure](#path-integrals-at-constant-pressure)
 * [Path Integral Molecular Dynamics](#path-integral-molecular-dynamics)
+* [Bosonic and Fermionic Path Integral Molecular Dynamics](#bosonic-fermionic-pimd)
 
 ### Committee models
 
@@ -394,4 +395,20 @@ R. Feynman, A. Hibbs, *"Quantum Mechanics and Path Integrals"*, McGraw-Hill (196
 M. Tuckerman, *"Statistical Mechanics and Molecular Simulations"*, Oxford Univ. Press (2008)
 
 
+### Bosonic and Fermionic Path Integral Molecular Dynamics
 
+PIMD simulations of bosonic particles with a polynomial scaling algorithm. 
+Supports mixtures of distinguishable and bosonic particles.
+Fermionic statistics can be obtained by a reweigthing procedure by post processing the simulation 
+(see ref. 2 below).
+
+**Main contributors:** Yotam Feldman, Barak Hirshberg  
+**Implementation:**  
+Y.M.Y. Feldman and B. Hirshberg *"Quadratic scaling bosonic path integral molecular dynamics simulations"*, in preparation.  
+**Theory:**  
+B. Hirshberg, V. Rizzi and M. Parrinello, *"Path integral molecular dynamics for bosons"*, Proc. Natl. Acad. Sci. U.S.A. 116 (43) 21445-21449 (2019)
+DOI: [10.1073/pnas.1913365116](https://doi.org/10.1073/pnas.1913365116)  ---  BibTeX: [fetch](https://www.doi2bib.org/bib/10.1073/pnas.1913365116)  
+B. Hirshberg, M. Invernizzi and M. Parrinello, *"Path integral molecular dynamics for fermions: Alleviating the sign problem with the Bogoliubov inequality"*, J. Chem. Phys. 152, 171102 (2020)
+DOI: [10.1063/5.0008720](https://doi.org/10.1063/5.0008720)  ---  BibTeX: [fetch](https://www.doi2bib.org/bib/10.1063/5.0008720)  
+C. W. Myung, B. Hirshberg and M. Parrinello, *"Prediction of a Supersolid Phase in High-Pressure Deuterium"*, Phys. Rev. Lett., 128 045301 (2022)
+DOI: [10.1103/PhysRevLett.128.045301](https://doi.org/10.1103/PhysRevLett.128.045301)  ---  BibTeX: [fetch](https://www.doi2bib.org/bib/10.1103/PhysRevLett.128.045301)  
