@@ -12,7 +12,7 @@ permalink: "/about/developers/"
  - [Michele Ceriotti,](https://people.epfl.ch/michele.ceriotti?lang=en)
    Head of the Laboratory for Computational Science and Modelling (COSMO)
    at EPFL, Lausanne. 
- - [Mariana Rossi,](http://th.fhi-berlin.mpg.de/groups/sabia/)
+ - [Mariana Rossi,](https://www.mpsd.mpg.de/research/groups/sabia)
    Lise Meitner Independent Group Leader at the MPI for the Structure and Dynamics of Matter, Hamburg.
  - [Venkat Kapil,](https://venkatkapil24.github.io/) 
    Oppenheimer Research Fellow, University of Cambridge, UK; Sydney Harvey Junior Research Fellow, Churchill College.
