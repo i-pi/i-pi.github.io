@@ -21,17 +21,18 @@ permalink: "/resources/getting_started/"
  - Other codes which are compatible with i-PI (Quantum Espresso, CP2K,
    LAMMPS, etc.).
    
-### How to install i-PI
+### How to install and run i-PI
 
 ---
 
-If you want only to test i-PI you can download our VirtualBox image
-which already contains i-PI and several clients properly
-configured. 
+If you are interested in using i-PI, we refer to the instructions contained in the
+README file of the official repository, available through this [link](https://github.com/i-pi/i-pi).
+Those instructions are kept up to date! Note that being written completely in Python, i-PI does
+not require a real installation. 
 
 ---
 
-Being written completely in Python, i-PI do not need a real
+<!-- Being written completely in Python, i-PI do not need a real
 installation. To keep a low barrier for the new users, we decided to
 provide a simple script that sets all the necessary environment
 variable in a BASH console. Once you downloaded, you can move the
@@ -131,13 +132,13 @@ want (also pressing ```Ctrl+c``` into the terminal directly). Since
 you are running a single client, i-PI will stop too but will not
 crash. If you decide to restart the client, running the last command
 in the **Terminal 2**, the simulation will restart exactly from where
-you stopped it!  Wonderful!
+you stopped it!  Wonderful! -->
 
----
+<!-- 
 
 To go deeper in understanding how i-PI works you can check the
 documentation and our tutorials.
 
----
+-->
 
 
