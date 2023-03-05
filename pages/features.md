@@ -28,6 +28,7 @@ Finding these features readily available is saving you weeks of work:
 reward the developers by spending 15 seconds to add one more citation
 to your manuscript!
 
+* [Cavity Molecular Dynamics for Polaritonics](#cavity-molecular-dynamics-for-polaritonics)
 * [Committee Models](#committee-models)
 * [Replica Exchange MD](#replica-exchange-md)
 * [Thermodynamic integrations](#thermodynamic-integrations) 
@@ -54,6 +55,18 @@ to your manuscript!
 * [Path Integrals at Constant Pressure](#path-integrals-at-constant-pressure)
 * [Path Integral Molecular Dynamics](#path-integral-molecular-dynamics)
 * [Bosonic and Fermionic Path Integral Molecular Dynamics](#bosonic-fermionic-pimd)
+
+### Cavity Molecular Dynamics for Polaritonics
+
+This initial implementation provides an efficient cavity molecular dynamics (CavMD) scheme for simulating strong light-matter interactions between molecules and an optical cavity mode, particularly in the vibrational strong coupling regime. At present, the nuclear partial charges are assumed to be fixed during the simulation. CavMD is implemented with a new force evaluator: *ffcavphsocket*, which is operated similarly to the original *ffsocket* evaluator, but with additional parameters for controlling cavity photons. Hence, with this implementation, users can study different aspects of vibrational strong coupling with many sophisticated methods supported in i-pi.
+
+**Main contributors:** Tao E. Li  
+**Implementation and theory:**  
+T. E. Li, J. E. Subotnik, and A. Nitzan, *"Cavity molecular dynamics simulations of liquid water under vibrational ultrastrong coupling"*, Proc. Natl. Acad. Sci. 117(31), 18324–18331. (2020)    
+DOI: [10.1073/pnas.2009272117](http://dx.doi.org/10.1073/pnas.2009272117) --- BibTeX: [fetch](https://www.doi2bib.org/bib/10.1073/pnas.2009272117)  
+T. E. Li, A. Nitzan, S. Hammes-Schiffer, and J. E. Subotnik, *"Quantum simulations of vibrational strong coupling via path integrals"*, J. Phys. Chem. Lett. 13(17), 3890–3895. (2022)    
+DOI: [10.1021/acs.jpclett.2c00613](http://dx.doi.org/10.1021/acs.jpclett.2c00613) --- BibTeX: [fetch](https://www.doi2bib.org/bib/10.1021/acs.jpclett.2c00613)  
+
 
 ### Committee models
 
