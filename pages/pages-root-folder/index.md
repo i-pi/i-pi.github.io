@@ -65,12 +65,14 @@ As of today, the following electronic-structure codes provide out-of-the-box an 
 [ASE](https://wiki.fysik.dtu.dk/ase/),
 [TBE](https://www.questaal.org/),
 [CASTEP](http://castep.org/).
+[AMS](https://www.scm.com/doc/plams/examples/i-PI-AMS.html).
 If you know a code that is missing in this list, please contact the developers. If you are interested in interfacing your code to i-PI please get in touch,
 we are always glad to help! 
 
 A few machine-learning potentials are also interfaced with i-PI, such as 
 [n2p2](https://github.com/CompPhysVienna/n2p2) (interface through LAMMPS),
 [sGDML](http://www.sgdml.org/),
+[AMS](https://www.scm.com/doc/plams/examples/i-PI-AMS.html),
 and others.
 
 If you have questions about running i-PI calculations, or including new features
