@@ -79,7 +79,7 @@ on github. We might however be lagging behind and/or have overlooked
 some contributions, in which case please accept our apologies and get
 in touch so we can give proper recognition to everyone's work and 
 support! The people behind the implementation of larger features in the
-code are further listed in the [Features page.](https://ipi-code.org/about/features/).
+code are further listed in the [Features page.](https://ipi-code.org/i-pi/features.html).
 
 ### Funding
 

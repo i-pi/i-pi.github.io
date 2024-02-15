@@ -3,7 +3,7 @@
   side: left
   dropdown:
   - title: "Features"
-    url: "/about/features/"
+    url: "/i-pi/features.html"
   - title: "The socket interface"
     url: /about/interface/
   - title: "Behind the code"
