@@ -12,7 +12,7 @@ The easiest way to install i-PI is through the
 Using `pip`, this is as simple as running
 
 ```bash
-$ pip install -U i-PI
+$ pip install ipi
 ```
 
 
