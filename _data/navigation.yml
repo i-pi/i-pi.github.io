@@ -2,12 +2,12 @@
   url: "/"
   side: left
   dropdown:
-  - title: "Features"
-    url: "http://docs.ipi-code.org/features.html"
-  - title: "The socket interface"
-    url: /about/interface/
-  - title: "Behind the code"
-    url: /about/developers/
+      - title: "Features"
+        url: "http://docs.ipi-code.org/features.html"
+      - title: "The socket interface"
+        url: /about/interface/
+      - title: "Behind the code"
+        url: /about/developers/
 
 - title: Download
   url: "/download/"
@@ -16,14 +16,14 @@
 - title: "Resources"
   side: left
   dropdown:
-  - title: "Documentation"
-    url: "http://docs.ipi-code.org/"
-  - title: "Tutorials"
-    url: "/resources/tutorials/"
-  - title: "Getting Started"
-    url: "/resources/getting_started/"
-  - title: "Forum"
-    url: "/resources/forum/"
+      - title: "Documentation"
+        url: "http://docs.ipi-code.org/"
+      - title: "Tutorials"
+        url: "https://docs.ipi-code.org/onlinereso.html/"
+      - title: "Getting Started"
+        url: "https://docs.ipi-code.org/getting-started.html/"
+      - title: "Forum"
+        url: "/resources/forum/"
 
 - title: "Search"
   url: "/search/"
